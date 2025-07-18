@@ -1,0 +1,13 @@
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\bin\Debug\DBApp.exe.config
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\bin\Debug\DBApp.exe
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\bin\Debug\DBApp.pdb
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.FrmEmployees.resources
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.exe
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.pdb
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.FrmAddEditEmployee.resources
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.CustomDialog.resources
+C:\Users\aleks\OneDrive\Desktop\BAZE2024\DBApp\DBApp\obj\Debug\DBApp.FrmAddToProject.resources
